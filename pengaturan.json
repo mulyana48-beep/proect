@@ -1,0 +1,12 @@
+{
+    "nama_sekolah": "SMAN 1 Pangandaran",
+    "slogan": "Sarat Inovasi dan Prestasi",
+    "tahun": "2026\/2027",
+    "semester": "Ganjil",
+    "kontak": "MyEduApps",
+    "kontak2": "MyApps",
+    "petunjuk1": "Gunakan form pada halaman input untuk mencatat kedisiplinan siswa, ketik nama siswa pada field pencarian nama siswa, jika sudah muncul nama yang dimaksud tinggal klik untuk memilih.",
+    "petunjuk2": "Klik button untuk memilih item kedisiplinan yang dimaksud, klik lagi untuk membatalkan pilihan, isi field keterangan dan data yang perlukan lainnya, lalu klik simpan.",
+    "petunjuk3": "Untuk memastikan data tersimpan, bisa dilihat pada halaman catatan, dan data rekapitulasinya dapat dilihat pada halaman rekapitulasi.",
+    "petunjuk4": "Jika ada kesalahan pengisian dan ketidaksesuaian data siswa, silahkan hubungi admin"
+}
